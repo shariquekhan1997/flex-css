@@ -32,7 +32,7 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 `flex-wrap`   | `flex-nowrap`      | `flex-wrap-reverse`
 
 #### flex basis
-<!-- Supported for 2 items 50, 45 ; for 3 items 30 ; for 4 items 24 -->
+<!-- Supported for 2 items 50, 45 ; for 3 items 30 ; for 4 items 25 -->
 `flex-basis-auto` | `flex-basis-50` | `flex-basis-45` | `flex-basis-30` | `flex-basis-25`
 
 #### align self
@@ -65,7 +65,6 @@ Full example:
 </div>
 ```
 
-
 It's possible to overwrite the css of the class by adding inline, internal or external css as shown below.
 
 > [!NOTE]
@@ -79,6 +78,7 @@ It's possible to overwrite the css of the class by adding inline, internal or ex
 ```html
 <div class="flex-basis-45 yourElement">
 ```
+
 ## Usage with Javascript
 
 You can add or remove css classes with Javascript. A simple example:
