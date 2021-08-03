@@ -4,12 +4,7 @@ _Just-add-classes CSS flexbox_
 
 `shariqueFlex.css` has a bunch of cool flexbox classes for you to use in your projects. Great for galleries, home pages, and general just-add-classes-awesomeness.
 
-
-## Add
-Add shariqueFlex.css in your project and you are good to go.
-
-
-## Usage
+### Usage
 
 To use shariqueFlex.css in your website, simply drop the stylesheet into your document's `<head>`, and add any flex classes name in your element. That's it! You've got a CSS flex element. Super!
 
@@ -33,30 +28,29 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 `justify-content-start` | `justify-content-end` | `justify-content-left` | `justify-content-right`
 `justify-content-stretch` | `justify-content-safe` | `justify-content-unsafe`
 
-# flex wrap
+#### flex wrap
 `flex-wrap`   | `flex-nowrap`      | `flex-wrap-reverse`
 
-# flex basis
+#### flex basis
 <!-- Supported for 2 items 50, 45 ; for 3 items 30 ; for 4 items 24 -->
 `flex-basis-auto` | `flex-basis-50` | `flex-basis-45` | `flex-basis-30` | `flex-basis-25`
 
-# Align Self
+#### Align Self
 `align-self-auto` | `align-self-flexStart` | `align-self-flexEnd` | `align-self-baseline`
 `align-self-stretch`
 
-# Align Items
+#### Align Items
 `align-items-stretch` | `align-items-start` | `align-items-end` `align-items-flexStart`
 `align-items-flexEnd` | `align-items-center` | `align-items-safe` | `align-items-unsafe`
 `align-items-baseline` | `align-items-selfStart` | `align-items-selfEnd`
 
-# Align Content
+#### Align Content
 `align-content-spaceEvenly` | `align-content-spaceAround` | `align-content-spaceBetween`
 `align-content-start` | `align-content-end` | `align-content-safe` | `align-content-unsafe`
 `align-content=flexStart` | `align-content-flexEnd` | `align-content-baseline` | `align-content-center` | `align-content-stretch`
 
 ### Cross Browsers Difficulties
 Note that that browser support for these values is nuanced. For example, space-between never got support from some versions of Edge, and start/end/left/right aren’t in Chrome yet. MDN has detailed charts. The safest values are flex-start, flex-end, and center.
-
 
 Full example:
 
