@@ -87,7 +87,7 @@ It's possible to overwrite the css of the class by adding inline, internal or ex
 ```
 ## Usage with Javascript
 
-You can do a whole bunch of other stuff with animate.css when you combine it with Javascript. A simple example:
+You can add or remove css classes with Javascript. A simple example:
 
 ```javascript
 const element =  document.querySelector('.my-element')
