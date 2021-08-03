@@ -6,7 +6,7 @@ _Just-add-classes CSS flexbox_
 
 ### Usage
 
-To use shariqueFlex.css in your website, simply drop the stylesheet into your document's `<head>`, and add any flex classes name in your element. That's it! You've got a CSS flex element. Super!
+To use flex-css in your website, simply drop the stylesheet into your document's `<head>`, and add any flex classes name in your element. That's it! You've got a CSS flex element. Super!
 
 ```html
 <head>
