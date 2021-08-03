@@ -22,7 +22,7 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 #### flex
 `flex`
 
-#### justify-content
+#### justify content
 `justify-content-center` | `justify-content-flexStart` | `justify-content-flexEnd`
 `justify-content-spaceBetween` | `justify-content-spaceAround` | `justify-content-spaceEvenly`
 `justify-content-start` | `justify-content-end` | `justify-content-left` | `justify-content-right`
@@ -35,16 +35,16 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 <!-- Supported for 2 items 50, 45 ; for 3 items 30 ; for 4 items 24 -->
 `flex-basis-auto` | `flex-basis-50` | `flex-basis-45` | `flex-basis-30` | `flex-basis-25`
 
-#### Align Self
+#### align self
 `align-self-auto` | `align-self-flexStart` | `align-self-flexEnd` | `align-self-baseline`
 `align-self-stretch`
 
-#### Align Items
+#### align items
 `align-items-stretch` | `align-items-start` | `align-items-end` `align-items-flexStart`
 `align-items-flexEnd` | `align-items-center` | `align-items-safe` | `align-items-unsafe`
 `align-items-baseline` | `align-items-selfStart` | `align-items-selfEnd`
 
-#### Align Content
+#### align content
 `align-content-spaceEvenly` | `align-content-spaceAround` | `align-content-spaceBetween`
 `align-content-start` | `align-content-end` | `align-content-safe` | `align-content-unsafe`
 `align-content=flexStart` | `align-content-flexEnd` | `align-content-baseline` | `align-content-center` | `align-content-stretch`
