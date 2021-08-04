@@ -95,3 +95,5 @@ This project and everyone participating in it is governed by the [Contributor Co
 ## Contributing
 
 Pull requests are the way to go here. We only have two rules for submitting a pull request: match the naming convention (property-value, categorised [flex-basis, justify-cotnent, etc]) and let us see a demo of submitted classes in a [pen](http://codepen.io). That **last one is important**.
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/shariquekhan1997/flex-css)
