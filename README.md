@@ -29,7 +29,7 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 `justify-content-stretch` | `justify-content-safe` | `justify-content-unsafe`
 
 #### flex wrap
-`flex-wrap`   | `flex-nowrap`      | `flex-wrap-reverse`
+`flex-wrap`  | `flex-nowrap`  | `flex-wrap-reverse`
 
 #### flex basis
 <!-- Supported for 2 items 50, 45 ; for 3 items 30 ; for 4 items 25 -->
