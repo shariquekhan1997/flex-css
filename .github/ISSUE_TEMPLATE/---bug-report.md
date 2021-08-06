@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug report"
-about: Product bug, lack of documentation
+about: "Bugs, missing documentation, or unexpected behavior \U0001F914"
 title: ''
 labels: unconfirmed-bug
 assignees: ''
