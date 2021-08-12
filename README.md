@@ -2,7 +2,7 @@
 
 _Just-add-classes CSS flexbox_
 
-`flex-css.css` has a bunch of cool flexbox classes for you to use in your projects. Great for galleries, home pages, and general just-add-classes-awesomeness.
+`flex-css` has a bunch of cool flexbox classes for you to use in your projects. Great for galleries, home pages, and general just-add-classes-awesomeness.
 
 ### Usage
 
