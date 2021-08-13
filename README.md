@@ -49,6 +49,9 @@ To use flex in your web page add class 'flex' to the parent element. Use the fol
 `align-content-start` | `align-content-end` | `align-content-safe` | `align-content-unsafe`
 `align-content=flexStart` | `align-content-flexEnd` | `align-content-baseline` | `align-content-center` | `align-content-stretch`
 
+#### flex direction
+`flex-direction-column` | `flex-direction-column-reverse` | `flex-direction-row` | `flex-direction-row-reverse` | `flex-direction-inherit` | `flex-direction-inherit` | `flex-direction-intial` | `flex-direction-unset`
+
 ### Cross Browsers Difficulties
 Note that that browser support for these values is nuanced. For example, space-between never got support from some versions of Edge, and start/end/left/right aren’t in Chrome yet. MDN has detailed charts. The safest values are flex-start, flex-end, and center.
 

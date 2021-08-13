@@ -301,3 +301,26 @@
     -ms-flex-line-pack: end;
     align-content: flex-end
 }
+
+/* flex direction */
+.flex-direction-column {
+    flex-direction: column;
+}
+.flex-direction-column-reverse {
+    flex-direction: column-reverse;
+}
+.flex-direction-row{
+    flex-direction: row;
+}
+.flex-direction-row-reverse{
+    flex-direction: row-reverse;
+}
+.flex-direction-inherit{
+    flex-direction: inherit;
+}
+.flex-direction-intial{
+    flex-direction: initial;
+}
+.flex-direction-unset{
+    flex-direction: unset;
+}
